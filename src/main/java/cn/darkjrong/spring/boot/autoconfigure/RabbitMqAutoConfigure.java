@@ -1,6 +1,6 @@
-package com.github.darkjrong.spring.boot.autoconfigure;
+package cn.darkjrong.spring.boot.autoconfigure;
 
-import com.github.darkjrong.rabbitmq.RabbitMqConfig;
+import cn.darkjrong.rabbitmq.RabbitMqConfig;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 

@@ -1,4 +1,4 @@
-package com.github.darkjrong.rabbitmq;
+package cn.darkjrong.rabbitmq;
 
 import cn.hutool.core.collection.CollectionUtil;
 import cn.hutool.core.util.ObjectUtil;
